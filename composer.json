@@ -1,5 +1,5 @@
 {
-    "name": "kortby/nova-radio-field",
+    "name": "owenmelbz/nova-radio-field",
     "description": "A Laravel Nova radio button field type with the ability to toggle other field visibility.",
     "keywords": [
         "laravel",
@@ -8,7 +8,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.0",
-        "laravel/framework": "^9.0",
+       "laravel/framework": "^8.0|^9.0",
         "laravel/nova": "^4.0"
     },
     "autoload": {
